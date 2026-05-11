@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/emon-jodi-hoto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Emon Jodi Hoto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/emon-jodi-hoto/) |
+| **Get License** | [Secure Licensing Rights for Emon Jodi Hoto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/emon-jodi-hoto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> এমন যদি হতো তুমি আমার কাছে এলে
+> অন্ধকার এই রাতে প্রেমের আলো জ্বেলে
+> তোমার চোখের মায়ায় আমার পৃথিবীটা বাঁচে
+> লুকিয়ে থাকা স্বপ্নগুলো উড়ছে তোমার কাছে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
