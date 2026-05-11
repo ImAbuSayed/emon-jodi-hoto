@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Emon Jodi Hoto
+
+This log tracks the cryptographic history and versioning for the song **Emon Jodi Hoto** (emon-jodi-hoto).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T11:16:20.144641 | `v1` | `820437e804f8016da82dbfae48c43b9733d01ccfcff6460b4dc6427e6266a45c` | `97a4e09e2d3ac52da4da824c19d13460e29e98f12071904c4e9413b88291b0b6` | `2026-05-11_emon-jodi-hoto-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

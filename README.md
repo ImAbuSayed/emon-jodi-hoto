@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/emon-jodi-hoto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Emon Jodi Hoto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/emon-jodi-hoto/) |
+| **Get License** | [Get a Licensing Quote for Emon Jodi Hoto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/emon-jodi-hoto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `820437e804f8016da82dbfae48c43b9733d01ccfcff6460b4dc6427e6266a45c` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
